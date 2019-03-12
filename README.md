@@ -186,13 +186,13 @@ _City-scale map, kilometer level Map_
 
 ### Long-term
 _Multi-session, long-term data collection_
-- [KAIST Day/Night Dataset](https://sites.google.com/view/multispectral/home)
-- [Visual-Inertial Canoe Dataset](https://databank.illinois.edu/datasets/IDB-9342111)
-- [Symphony Lake Dataset](http://dream.georgiatech-metz.fr/?q=node/79)
-- [Oxford Robotcar Dataset](http://robotcar-dataset.robots.ox.ac.uk/)
-- [University of Michigan North Campus Long-Term (NCLT) Vision and LIDAR Dataset](http://robots.engin.umich.edu/nclt/)
-- [Alderley Day/Night Dataset](https://wiki.qut.edu.au/pages/viewpage.action?pageId=181178395)
-- [St Lucia Multiple Times of Day](https://wiki.qut.edu.au/display/cyphy/St+Lucia+Multiple+Times+of+Day)
+- 无人车、白天黑夜：[KAIST Day/Night Dataset](https://sites.google.com/view/multispectral/home)
+- 船舶、湖泊：[Visual-Inertial Canoe Dataset](https://databank.illinois.edu/datasets/IDB-9342111)
+- 船舶、湖面：[Symphony Lake Dataset](http://dream.georgiatech-metz.fr/?q=node/79)
+- 无人车：[Oxford Robotcar Dataset](http://robotcar-dataset.robots.ox.ac.uk/)
+- 机器人、校园、室内外、白天黑夜、跨季节：[University of Michigan North Campus Long-Term (NCLT) Vision and LIDAR Dataset](http://robots.engin.umich.edu/nclt/)
+- 无人车：[Alderley Day/Night Dataset](https://wiki.qut.edu.au/pages/viewpage.action?pageId=181178395)
+- 无人车：[St Lucia Multiple Times of Day](https://wiki.qut.edu.au/display/cyphy/St+Lucia+Multiple+Times+of+Day)
 
 ### Map Complexity
 _Variation of mapping structures_
